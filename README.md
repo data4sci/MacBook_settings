@@ -1,6 +1,8 @@
 # MacBook Settings
 setting up my new Macbook
 
+## Apps
+
 1) window tiling manager
     a) ~~[Amethyst](https://github.com/ianyh/Amethyst)~~
     b) [Rectangle](https://rectangleapp.com)
@@ -10,4 +12,16 @@ setting up my new Macbook
 6) 
 
 
+## Shortcuts
 
+1) Command + F10 - Vivaldi fillscreen
+2) Command + k, z - VSCode Zen Mode
+
+
+## Vim
+
+1) `:bo term` - terminál dole
+2) Control + w, s - split horizontálně (pod sebe)
+3) Control + w, v - split vertikálně (vedle seve)
+4) Control + w, h/j/k/l - pohyb mezi okny
+5) 
