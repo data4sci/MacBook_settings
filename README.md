@@ -11,6 +11,13 @@ setting up my new Macbook
 5) desktop automation tool for macOS [Hammerspoon](https://www.hammerspoon.org/go/)
 6) 
 
+## PyEnv
+
+*  `pyenv versions`
+*  `pyenv install -l`
+*  `pyenv install 3.10.2`
+*  `pyenv global 3.10.2`
+*  `pyenv local 3.11.0a4`
 
 ## Shortcuts
 
